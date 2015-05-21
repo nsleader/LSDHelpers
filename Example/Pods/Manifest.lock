@@ -1,0 +1,14 @@
+PODS:
+  - LSDHelpers (0.1.0)
+
+DEPENDENCIES:
+  - LSDHelpers (from `../`)
+
+EXTERNAL SOURCES:
+  LSDHelpers:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LSDHelpers: 9fc7e34c9d64afe5f02516014536f34e484ec615
+
+COCOAPODS: 0.37.1
