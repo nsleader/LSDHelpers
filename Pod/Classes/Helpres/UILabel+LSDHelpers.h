@@ -1,9 +1,7 @@
 //
 //  UILabel+Attributed.h
-//  FreshDecks
 //
-//  Created by IVAN CHIRKOV on 21.08.14.
-//  Copyright (c) 2014 IVAN CHIRKOV. All rights reserved.
+//  Created by IVAN CHIRKOV on 21.05.15.
 //
 
 #import <UIKit/UIKit.h>

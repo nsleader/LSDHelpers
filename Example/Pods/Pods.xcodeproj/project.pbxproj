@@ -7,358 +7,374 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0B3A2FA8EBF12CB32AAA2C6B /* CALayer+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 8AF6FC653A125424609AA8F1 /* CALayer+LSDHelpers.h */; };
-		1585F139A801D2FFB5111DBC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05146D0D10248E9558E4F819 /* Foundation.framework */; };
-		15B11D602193C38A9B5B4C3A /* UIScreen+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A21B1F3CB9DA54DF8B8DEBE /* UIScreen+LSDHelpers.h */; };
-		1A443E6BF8BCC6A4B5663DB7 /* Pods-Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A8CFAB3F9E923AE887DAE162 /* Pods-Tests-dummy.m */; };
-		1D1A4F2C912A7AB53D116ED7 /* UIScreen+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A21B1F3CB9DA54DF8B8DEBE /* UIScreen+LSDHelpers.h */; };
-		3607F5C6FED3F5E4899643D6 /* Pods-Tests-LSDHelpers-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 452045D03E4644818EA5778A /* Pods-Tests-LSDHelpers-dummy.m */; };
-		3B867127C5D494064C380CEA /* Pods-LSDHelpers-LSDHelpers-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DC3E414F5B175507143C5C01 /* Pods-LSDHelpers-LSDHelpers-dummy.m */; };
-		42A3C2266A79E01296883D11 /* UILabel+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 03F62305EBD57247BCEDB29D /* UILabel+LSDHelpers.m */; };
-		5DCF11B5756E284B681B6C66 /* UIScreen+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 110389F0897F7E1A8C633EFE /* UIScreen+LSDHelpers.m */; };
-		6674DAD5811BF9A1002F1362 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05146D0D10248E9558E4F819 /* Foundation.framework */; };
-		7A7C6470ED286F859DCE6FAE /* UIScreen+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 110389F0897F7E1A8C633EFE /* UIScreen+LSDHelpers.m */; };
-		85DE762A3C3ABF425FDF0297 /* CALayer+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 8AF6FC653A125424609AA8F1 /* CALayer+LSDHelpers.h */; };
-		8AD38333A1F4AB496F885ED2 /* CALayer+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = D460C960F03C958EAB20055B /* CALayer+LSDHelpers.m */; };
-		96E4282ACD3E157E5B671878 /* UILabel+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 46CE85F011AE97320EDF7E3E /* UILabel+LSDHelpers.h */; };
-		A6FAF177A207E9EBF22AE1A7 /* UILabel+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 46CE85F011AE97320EDF7E3E /* UILabel+LSDHelpers.h */; };
-		A8D26D1BF34CB5AFCD62A779 /* UILabel+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 03F62305EBD57247BCEDB29D /* UILabel+LSDHelpers.m */; };
-		AC93F862D1817BB615A997B7 /* CALayer+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = D460C960F03C958EAB20055B /* CALayer+LSDHelpers.m */; };
-		B861C4C91835830F59D8C165 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05146D0D10248E9558E4F819 /* Foundation.framework */; };
-		EB0AFE193CB659941493890D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05146D0D10248E9558E4F819 /* Foundation.framework */; };
-		EDDBF3845E0C7B2F9E0F2E72 /* Pods-LSDHelpers-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C103811D65D2AB6C70A546EC /* Pods-LSDHelpers-dummy.m */; };
+		053D1D7AF20BCC43B41E547A /* CALayer+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = EF3CA343129DF5E987D21D41 /* CALayer+LSDHelpers.h */; };
+		064EBA864754738DA79741C6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF81C98D400E0547E37B559 /* Foundation.framework */; };
+		0E167BED0AA8D9A114A53ADF /* Pods-Tests-LSDHelpers-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 93CD232E737CB1B2C838B244 /* Pods-Tests-LSDHelpers-dummy.m */; };
+		193ADCEC2301E245428928BF /* CALayer+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 50AF7DFB8E1591D6C1B69924 /* CALayer+LSDHelpers.m */; };
+		1ACFFF359DA6C00234D7B255 /* UIScreen+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F55C4A3C4EFF79090D08AC /* UIScreen+LSDHelpers.m */; };
+		1F420CCF46AE58B9CD7441E1 /* CALayer+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = EF3CA343129DF5E987D21D41 /* CALayer+LSDHelpers.h */; };
+		30C10CDC6F5B0CBEF1D8EDBB /* UIScreen+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F55C4A3C4EFF79090D08AC /* UIScreen+LSDHelpers.m */; };
+		312D4146FD6E966C7B9BAC79 /* UIApplication+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A368032A3D2130B6F0E2BBB /* UIApplication+LSDHelpers.h */; };
+		37375585B4502451D631DF1A /* LSDHelpres.h in Headers */ = {isa = PBXBuildFile; fileRef = E30945A20DC02C92CE45F5E7 /* LSDHelpres.h */; };
+		3CE164C978D2B680028E64E0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF81C98D400E0547E37B559 /* Foundation.framework */; };
+		3F2844FEB5B7062AD413BB12 /* UILabel+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 3951A85887CD6187C319BD2B /* UILabel+LSDHelpers.h */; };
+		4205EEF6449EE19A93455FCB /* Pods-LSDHelpers-LSDHelpers-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8431BAA84B997DC2C7DA42C4 /* Pods-LSDHelpers-LSDHelpers-dummy.m */; };
+		501A436275AAAB74A0E973FF /* UIApplication+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A368032A3D2130B6F0E2BBB /* UIApplication+LSDHelpers.h */; };
+		5752FC218F347302F9354BFF /* UIApplication+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 8873929A23DDD6CEA4AE4A86 /* UIApplication+LSDHelpers.m */; };
+		5ACC70E5A7F8D853491A7CD9 /* CALayer+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 50AF7DFB8E1591D6C1B69924 /* CALayer+LSDHelpers.m */; };
+		62247C9C3FE207526D57EC88 /* UIApplication+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 8873929A23DDD6CEA4AE4A86 /* UIApplication+LSDHelpers.m */; };
+		730A55F737AA7A00C7446293 /* Pods-Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A7C0EC5457C1CD5DA1D97D0C /* Pods-Tests-dummy.m */; };
+		7408ACDA5059C14DA75E7F61 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF81C98D400E0547E37B559 /* Foundation.framework */; };
+		8158DD0F6E48B40F8CDCE1A0 /* LSDHelpres.h in Headers */ = {isa = PBXBuildFile; fileRef = E30945A20DC02C92CE45F5E7 /* LSDHelpres.h */; };
+		9C24BD1636A57F5712507EC0 /* UILabel+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 3951A85887CD6187C319BD2B /* UILabel+LSDHelpers.h */; };
+		B4ADE6E112244A15AD9EC1FD /* UIScreen+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A68718BE881736F6DB85B23 /* UIScreen+LSDHelpers.h */; };
+		B8A119D49E88964368511371 /* UILabel+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AD0F3736D5B50ECA0D5A55 /* UILabel+LSDHelpers.m */; };
+		BED48433AE304464B0B55F6C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EF81C98D400E0547E37B559 /* Foundation.framework */; };
+		C3C76C0B5AA227CB007EC831 /* Pods-LSDHelpers-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A4E19399E1E9028BEFDFF853 /* Pods-LSDHelpers-dummy.m */; };
+		DA0C6B2BD80AC6309FB52B4A /* UIScreen+LSDHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A68718BE881736F6DB85B23 /* UIScreen+LSDHelpers.h */; };
+		F76E1B098FBC26D1A0E05F35 /* UILabel+LSDHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 58AD0F3736D5B50ECA0D5A55 /* UILabel+LSDHelpers.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		009724346C864090F9AFAD6F /* PBXContainerItemProxy */ = {
+		54127DA6173EE465A5909EF2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = EC523700F9D7F4BB4B5723F5 /* Project object */;
+			containerPortal = 32E8318372E49536454B7FF7 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 93E7635D78744532DDC501C7;
+			remoteGlobalIDString = 9C2C5BA0369A09A1A1875470;
 			remoteInfo = "Pods-LSDHelpers-LSDHelpers";
 		};
-		7B64CF5C90FF06FE4D153E49 /* PBXContainerItemProxy */ = {
+		77271D1AD3E33B23A01EFF7F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = EC523700F9D7F4BB4B5723F5 /* Project object */;
+			containerPortal = 32E8318372E49536454B7FF7 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FB5D558EF79B380C75EC81B2;
+			remoteGlobalIDString = C758C6DCA90F50A0B608C1EF;
 			remoteInfo = "Pods-LSDHelpers-LSDHelpers-LSDHelpers";
 		};
-		8BDAB42A9B9196E0512D3217 /* PBXContainerItemProxy */ = {
+		D24D384476FCF3E4BDE4DF34 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = EC523700F9D7F4BB4B5723F5 /* Project object */;
+			containerPortal = 32E8318372E49536454B7FF7 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F99B858636A6D6856670E0E7;
+			remoteGlobalIDString = 1CD46CAB1F96CE5B43E8A7BC;
 			remoteInfo = "Pods-Tests-LSDHelpers";
 		};
-		C709B4D58389486AA228D04D /* PBXContainerItemProxy */ = {
+		FA6409F46D268FBC32CF6D85 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = EC523700F9D7F4BB4B5723F5 /* Project object */;
+			containerPortal = 32E8318372E49536454B7FF7 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 99163E2F5ACFB5D36EAF6050;
+			remoteGlobalIDString = 5F5C360DB05392738EA964C5;
 			remoteInfo = "Pods-Tests-LSDHelpers-LSDHelpers";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		03F62305EBD57247BCEDB29D /* UILabel+LSDHelpers.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UILabel+LSDHelpers.m"; sourceTree = "<group>"; };
-		05146D0D10248E9558E4F819 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		060EAC8B17EA5409278F8956 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSDHelpers-LSDHelpers-Private.xcconfig"; sourceTree = "<group>"; };
-		0A1EDFE7B3E78F43A2701369 /* Pods-LSDHelpers-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LSDHelpers-acknowledgements.plist"; sourceTree = "<group>"; };
-		0A21B1F3CB9DA54DF8B8DEBE /* UIScreen+LSDHelpers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIScreen+LSDHelpers.h"; sourceTree = "<group>"; };
-		110389F0897F7E1A8C633EFE /* UIScreen+LSDHelpers.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIScreen+LSDHelpers.m"; sourceTree = "<group>"; };
-		255ABE283CFE5A999F1B9AB6 /* Pods-Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		32BC481E5E7804AD7D86C19F /* Pods-LSDHelpers-LSDHelpers-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LSDHelpers-LSDHelpers-prefix.pch"; sourceTree = "<group>"; };
-		362683F346AA2FDC0DDE6F00 /* LSDHelpers.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LSDHelpers.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		41E209945FF9637B54AE767B /* Pods-LSDHelpers.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSDHelpers.debug.xcconfig"; sourceTree = "<group>"; };
-		452045D03E4644818EA5778A /* Pods-Tests-LSDHelpers-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-Tests-LSDHelpers-dummy.m"; path = "../Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers-dummy.m"; sourceTree = "<group>"; };
-		46CE85F011AE97320EDF7E3E /* UILabel+LSDHelpers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILabel+LSDHelpers.h"; sourceTree = "<group>"; };
-		4C0F366EB7B0D8F794A737C4 /* Pods-Tests-LSDHelpers-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-LSDHelpers-Private.xcconfig"; path = "../Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers-Private.xcconfig"; sourceTree = "<group>"; };
-		5A64260668602DF28E8B2D2A /* Pods-Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.release.xcconfig"; sourceTree = "<group>"; };
-		69A2761493673D3531F896F8 /* libPods-Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7DE030B7D9ECAC7A8D0D2366 /* libPods-LSDHelpers-LSDHelpers.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LSDHelpers-LSDHelpers.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		804B899884EED3DC27D7FF01 /* Pods-Tests-LSDHelpers-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-Tests-LSDHelpers-prefix.pch"; path = "../Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers-prefix.pch"; sourceTree = "<group>"; };
-		8AF6FC653A125424609AA8F1 /* CALayer+LSDHelpers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CALayer+LSDHelpers.h"; sourceTree = "<group>"; };
-		8F47806479631E1B1B4E5BDE /* Pods-LSDHelpers-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LSDHelpers-acknowledgements.markdown"; sourceTree = "<group>"; };
-		904FCD7A33D7A72FA579139B /* Pods-LSDHelpers.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSDHelpers.release.xcconfig"; sourceTree = "<group>"; };
-		911A7D80AA1CB08997261B83 /* Pods-LSDHelpers-LSDHelpers.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSDHelpers-LSDHelpers.xcconfig"; sourceTree = "<group>"; };
-		9306CE92D854273A61F49B27 /* Pods-Tests-LSDHelpers.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-LSDHelpers.xcconfig"; path = "../Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers.xcconfig"; sourceTree = "<group>"; };
-		960169E1E18AF2F0D30667D9 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A6AF8715595FED840118B833 /* Pods-Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		A7DA2D4C2D657E305EB11761 /* libPods-Tests-LSDHelpers.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests-LSDHelpers.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A8CFAB3F9E923AE887DAE162 /* Pods-Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Tests-dummy.m"; sourceTree = "<group>"; };
-		AC285268A18C35FEB6879E3F /* libPods-LSDHelpers.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LSDHelpers.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B717D37D47EAE03E3B85C5F4 /* Pods-Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		C103811D65D2AB6C70A546EC /* Pods-LSDHelpers-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LSDHelpers-dummy.m"; sourceTree = "<group>"; };
-		D18CCF563860CECBFD9AF602 /* Pods-LSDHelpers-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LSDHelpers-environment.h"; sourceTree = "<group>"; };
-		D3EF6678A3DA8CA5F8B28AC1 /* Pods-LSDHelpers-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LSDHelpers-resources.sh"; sourceTree = "<group>"; };
-		D460C960F03C958EAB20055B /* CALayer+LSDHelpers.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CALayer+LSDHelpers.m"; sourceTree = "<group>"; };
-		DC3E414F5B175507143C5C01 /* Pods-LSDHelpers-LSDHelpers-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LSDHelpers-LSDHelpers-dummy.m"; sourceTree = "<group>"; };
-		EAED4241CED7834D58302C32 /* LSDHelpers.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LSDHelpers.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		F325FB2CC4BFE91EB26D29C3 /* Pods-Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Tests-environment.h"; sourceTree = "<group>"; };
-		F8D9CC57B80C5B6DF713E0FD /* Pods-Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Tests-resources.sh"; sourceTree = "<group>"; };
+		04F55C4A3C4EFF79090D08AC /* UIScreen+LSDHelpers.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIScreen+LSDHelpers.m"; sourceTree = "<group>"; };
+		079B65082F162F46DE1141AF /* Pods-Tests-LSDHelpers.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-LSDHelpers.xcconfig"; path = "../Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers.xcconfig"; sourceTree = "<group>"; };
+		104FFDBF028AA36C771FB9CD /* Pods-Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		1A0B2BD50010138EDE1FB7A7 /* Pods-LSDHelpers-LSDHelpers.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSDHelpers-LSDHelpers.xcconfig"; sourceTree = "<group>"; };
+		1A368032A3D2130B6F0E2BBB /* UIApplication+LSDHelpers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIApplication+LSDHelpers.h"; sourceTree = "<group>"; };
+		2B59799B91E44E2F1C54CED2 /* Pods-LSDHelpers.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSDHelpers.debug.xcconfig"; sourceTree = "<group>"; };
+		32E916BE9F40AD58FDF27EB5 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSDHelpers-LSDHelpers-Private.xcconfig"; sourceTree = "<group>"; };
+		3951A85887CD6187C319BD2B /* UILabel+LSDHelpers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILabel+LSDHelpers.h"; sourceTree = "<group>"; };
+		3B32BAEE33DFDA0C7675A148 /* libPods-Tests-LSDHelpers.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests-LSDHelpers.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EF81C98D400E0547E37B559 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		3F1913CA8C592465137DEE6D /* Pods-Tests-LSDHelpers-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-Tests-LSDHelpers-prefix.pch"; path = "../Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers-prefix.pch"; sourceTree = "<group>"; };
+		42AEF5BF0A7B4C14D721ED17 /* Pods-LSDHelpers-LSDHelpers-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LSDHelpers-LSDHelpers-prefix.pch"; sourceTree = "<group>"; };
+		49905044C2378DFD5AF3CEB0 /* Pods-Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		50AF7DFB8E1591D6C1B69924 /* CALayer+LSDHelpers.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CALayer+LSDHelpers.m"; sourceTree = "<group>"; };
+		56325BFB925DEE891EE1305D /* Pods-LSDHelpers-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LSDHelpers-acknowledgements.plist"; sourceTree = "<group>"; };
+		58AD0F3736D5B50ECA0D5A55 /* UILabel+LSDHelpers.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UILabel+LSDHelpers.m"; sourceTree = "<group>"; };
+		5FE5634826507A9102EC7F2E /* Pods-Tests-LSDHelpers-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-LSDHelpers-Private.xcconfig"; path = "../Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers-Private.xcconfig"; sourceTree = "<group>"; };
+		7572D3114A18B2E691F97280 /* libPods-Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		76CB5EC5FB5A1E57D2D7DD26 /* Pods-Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Tests-resources.sh"; sourceTree = "<group>"; };
+		79358CF2AADA52666DA3E829 /* Pods-Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.release.xcconfig"; sourceTree = "<group>"; };
+		8431BAA84B997DC2C7DA42C4 /* Pods-LSDHelpers-LSDHelpers-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LSDHelpers-LSDHelpers-dummy.m"; sourceTree = "<group>"; };
+		8450EB6D20B17A2DED5BE43C /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		860270AEE38E01F050871538 /* Pods-LSDHelpers-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LSDHelpers-acknowledgements.markdown"; sourceTree = "<group>"; };
+		86F7C6CCE91B6216D2D0D90B /* Pods-LSDHelpers-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LSDHelpers-environment.h"; sourceTree = "<group>"; };
+		8873929A23DDD6CEA4AE4A86 /* UIApplication+LSDHelpers.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIApplication+LSDHelpers.m"; sourceTree = "<group>"; };
+		93CD232E737CB1B2C838B244 /* Pods-Tests-LSDHelpers-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-Tests-LSDHelpers-dummy.m"; path = "../Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers-dummy.m"; sourceTree = "<group>"; };
+		98321CA66C7F9AEC803B496B /* Pods-Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Tests-environment.h"; sourceTree = "<group>"; };
+		9A68718BE881736F6DB85B23 /* UIScreen+LSDHelpers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIScreen+LSDHelpers.h"; sourceTree = "<group>"; };
+		9D0EE78E95BBE91B8A18267A /* LSDHelpers.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LSDHelpers.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4E19399E1E9028BEFDFF853 /* Pods-LSDHelpers-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LSDHelpers-dummy.m"; sourceTree = "<group>"; };
+		A7C0EC5457C1CD5DA1D97D0C /* Pods-Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Tests-dummy.m"; sourceTree = "<group>"; };
+		AB74C40CAFB87CEDB4CD67C2 /* LSDHelpers.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LSDHelpers.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		C288793D7BC6C40BD878BDD8 /* Pods-LSDHelpers.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LSDHelpers.release.xcconfig"; sourceTree = "<group>"; };
+		CE7B1F71BB327E94D3057CA9 /* libPods-LSDHelpers.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LSDHelpers.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF6AB625DF5751EDE286251F /* Pods-Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E2B2B7FCE826519111D1B0BB /* Pods-LSDHelpers-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LSDHelpers-resources.sh"; sourceTree = "<group>"; };
+		E30945A20DC02C92CE45F5E7 /* LSDHelpres.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LSDHelpres.h; sourceTree = "<group>"; };
+		EF3CA343129DF5E987D21D41 /* CALayer+LSDHelpers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CALayer+LSDHelpers.h"; sourceTree = "<group>"; };
+		FA90D067FE9A7275FB48789A /* libPods-LSDHelpers-LSDHelpers.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LSDHelpers-LSDHelpers.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2DE360074D32EE8B0A21D2A7 /* Frameworks */ = {
+		03B2CCE02ED5F9BDB77AE084 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6674DAD5811BF9A1002F1362 /* Foundation.framework in Frameworks */,
+				7408ACDA5059C14DA75E7F61 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3EC704496A083C90DFE8E729 /* Frameworks */ = {
+		0845D512DDA177BA6F7B3FAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3CE164C978D2B680028E64E0 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		466F1D803696DD4BC5299CAA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7BB732EB5F424695A895DA85 /* Frameworks */ = {
+		49B0DC02E242A0639E37320A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BED48433AE304464B0B55F6C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BCA4A9258AEE696CE953D96D /* Frameworks */ = {
+		8529B714AA7DA737DAC446D6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB0AFE193CB659941493890D /* Foundation.framework in Frameworks */,
+				064EBA864754738DA79741C6 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DEB73934565AFCEDCB028CD5 /* Frameworks */ = {
+		F6B48720178F5ABD29AC5A4B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1585F139A801D2FFB5111DBC /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		E0AEEA3697A5F60D6542CE09 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B861C4C91835830F59D8C165 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		09E50B7D0ABA47B472BE1AB7 /* Pod */ = {
+		116551C78BDBE9D422C5EEA8 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				A7A908FDEC33F0B4CBDAFC61 /* Classes */,
-			);
-			path = Pod;
-			sourceTree = "<group>";
-		};
-		21117E94AD6DEAF63C865F77 /* Pods-LSDHelpers */ = {
-			isa = PBXGroup;
-			children = (
-				8F47806479631E1B1B4E5BDE /* Pods-LSDHelpers-acknowledgements.markdown */,
-				0A1EDFE7B3E78F43A2701369 /* Pods-LSDHelpers-acknowledgements.plist */,
-				C103811D65D2AB6C70A546EC /* Pods-LSDHelpers-dummy.m */,
-				D18CCF563860CECBFD9AF602 /* Pods-LSDHelpers-environment.h */,
-				D3EF6678A3DA8CA5F8B28AC1 /* Pods-LSDHelpers-resources.sh */,
-				41E209945FF9637B54AE767B /* Pods-LSDHelpers.debug.xcconfig */,
-				904FCD7A33D7A72FA579139B /* Pods-LSDHelpers.release.xcconfig */,
-			);
-			name = "Pods-LSDHelpers";
-			path = "Target Support Files/Pods-LSDHelpers";
-			sourceTree = "<group>";
-		};
-		291E9DD8D8317B969FB5F181 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				2AD112326834161E15B802E6 /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		2AD112326834161E15B802E6 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				05146D0D10248E9558E4F819 /* Foundation.framework */,
+				3EF81C98D400E0547E37B559 /* Foundation.framework */,
 			);
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		4BC1430F0334706CD3A11ECD /* Helpres */ = {
+		131A556227B301FBA1E995E9 /* Pods-Tests */ = {
 			isa = PBXGroup;
 			children = (
-				8AF6FC653A125424609AA8F1 /* CALayer+LSDHelpers.h */,
-				D460C960F03C958EAB20055B /* CALayer+LSDHelpers.m */,
-				46CE85F011AE97320EDF7E3E /* UILabel+LSDHelpers.h */,
-				03F62305EBD57247BCEDB29D /* UILabel+LSDHelpers.m */,
-				0A21B1F3CB9DA54DF8B8DEBE /* UIScreen+LSDHelpers.h */,
-				110389F0897F7E1A8C633EFE /* UIScreen+LSDHelpers.m */,
-			);
-			path = Helpres;
-			sourceTree = "<group>";
-		};
-		50EBBBE50165715845D13BE6 /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				21117E94AD6DEAF63C865F77 /* Pods-LSDHelpers */,
-				617DB5375D7B44C67469C43A /* Pods-Tests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		617DB5375D7B44C67469C43A /* Pods-Tests */ = {
-			isa = PBXGroup;
-			children = (
-				A6AF8715595FED840118B833 /* Pods-Tests-acknowledgements.markdown */,
-				255ABE283CFE5A999F1B9AB6 /* Pods-Tests-acknowledgements.plist */,
-				A8CFAB3F9E923AE887DAE162 /* Pods-Tests-dummy.m */,
-				F325FB2CC4BFE91EB26D29C3 /* Pods-Tests-environment.h */,
-				F8D9CC57B80C5B6DF713E0FD /* Pods-Tests-resources.sh */,
-				B717D37D47EAE03E3B85C5F4 /* Pods-Tests.debug.xcconfig */,
-				5A64260668602DF28E8B2D2A /* Pods-Tests.release.xcconfig */,
+				DF6AB625DF5751EDE286251F /* Pods-Tests-acknowledgements.markdown */,
+				104FFDBF028AA36C771FB9CD /* Pods-Tests-acknowledgements.plist */,
+				A7C0EC5457C1CD5DA1D97D0C /* Pods-Tests-dummy.m */,
+				98321CA66C7F9AEC803B496B /* Pods-Tests-environment.h */,
+				76CB5EC5FB5A1E57D2D7DD26 /* Pods-Tests-resources.sh */,
+				49905044C2378DFD5AF3CEB0 /* Pods-Tests.debug.xcconfig */,
+				79358CF2AADA52666DA3E829 /* Pods-Tests.release.xcconfig */,
 			);
 			name = "Pods-Tests";
 			path = "Target Support Files/Pods-Tests";
 			sourceTree = "<group>";
 		};
-		657308918858555A14FBC47B /* Products */ = {
+		368625BF4E4CED0DE60142A9 /* Helpres */ = {
 			isa = PBXGroup;
 			children = (
-				EAED4241CED7834D58302C32 /* LSDHelpers.bundle */,
-				362683F346AA2FDC0DDE6F00 /* LSDHelpers.bundle */,
-				AC285268A18C35FEB6879E3F /* libPods-LSDHelpers.a */,
-				7DE030B7D9ECAC7A8D0D2366 /* libPods-LSDHelpers-LSDHelpers.a */,
-				69A2761493673D3531F896F8 /* libPods-Tests.a */,
-				A7DA2D4C2D657E305EB11761 /* libPods-Tests-LSDHelpers.a */,
+				EF3CA343129DF5E987D21D41 /* CALayer+LSDHelpers.h */,
+				50AF7DFB8E1591D6C1B69924 /* CALayer+LSDHelpers.m */,
+				E30945A20DC02C92CE45F5E7 /* LSDHelpres.h */,
+				1A368032A3D2130B6F0E2BBB /* UIApplication+LSDHelpers.h */,
+				8873929A23DDD6CEA4AE4A86 /* UIApplication+LSDHelpers.m */,
+				3951A85887CD6187C319BD2B /* UILabel+LSDHelpers.h */,
+				58AD0F3736D5B50ECA0D5A55 /* UILabel+LSDHelpers.m */,
+				9A68718BE881736F6DB85B23 /* UIScreen+LSDHelpers.h */,
+				04F55C4A3C4EFF79090D08AC /* UIScreen+LSDHelpers.m */,
 			);
-			name = Products;
+			path = Helpres;
 			sourceTree = "<group>";
 		};
-		A6F82A2F852D8303FB19861D /* Development Pods */ = {
+		3C2FF345163E3F4519F5C345 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				E1D6859C12B24FC538B90EF9 /* LSDHelpers */,
+				6C6262F7D450716A1E66F3C8 /* Classes */,
 			);
-			name = "Development Pods";
+			path = Pod;
 			sourceTree = "<group>";
 		};
-		A7A908FDEC33F0B4CBDAFC61 /* Classes */ = {
+		468154780953D8620755B15D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				4BC1430F0334706CD3A11ECD /* Helpres */,
+				116551C78BDBE9D422C5EEA8 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5F7524AE5C0CFCDA83901529 /* Pods-LSDHelpers */ = {
+			isa = PBXGroup;
+			children = (
+				860270AEE38E01F050871538 /* Pods-LSDHelpers-acknowledgements.markdown */,
+				56325BFB925DEE891EE1305D /* Pods-LSDHelpers-acknowledgements.plist */,
+				A4E19399E1E9028BEFDFF853 /* Pods-LSDHelpers-dummy.m */,
+				86F7C6CCE91B6216D2D0D90B /* Pods-LSDHelpers-environment.h */,
+				E2B2B7FCE826519111D1B0BB /* Pods-LSDHelpers-resources.sh */,
+				2B59799B91E44E2F1C54CED2 /* Pods-LSDHelpers.debug.xcconfig */,
+				C288793D7BC6C40BD878BDD8 /* Pods-LSDHelpers.release.xcconfig */,
+			);
+			name = "Pods-LSDHelpers";
+			path = "Target Support Files/Pods-LSDHelpers";
+			sourceTree = "<group>";
+		};
+		6C6262F7D450716A1E66F3C8 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				368625BF4E4CED0DE60142A9 /* Helpres */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		E001B6B9607EBE56EA5FF4B0 = {
+		757AAEBCACDE734A144B556F /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				960169E1E18AF2F0D30667D9 /* Podfile */,
-				A6F82A2F852D8303FB19861D /* Development Pods */,
-				291E9DD8D8317B969FB5F181 /* Frameworks */,
-				657308918858555A14FBC47B /* Products */,
-				50EBBBE50165715845D13BE6 /* Targets Support Files */,
+				9D36A0C528E55922CECB657A /* LSDHelpers */,
 			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		E1D6859C12B24FC538B90EF9 /* LSDHelpers */ = {
+		7D083A4008517D4C3983D945 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				09E50B7D0ABA47B472BE1AB7 /* Pod */,
-				E38FA729CF0F27F200435A7C /* Support Files */,
+				9D0EE78E95BBE91B8A18267A /* LSDHelpers.bundle */,
+				AB74C40CAFB87CEDB4CD67C2 /* LSDHelpers.bundle */,
+				CE7B1F71BB327E94D3057CA9 /* libPods-LSDHelpers.a */,
+				FA90D067FE9A7275FB48789A /* libPods-LSDHelpers-LSDHelpers.a */,
+				7572D3114A18B2E691F97280 /* libPods-Tests.a */,
+				3B32BAEE33DFDA0C7675A148 /* libPods-Tests-LSDHelpers.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9D36A0C528E55922CECB657A /* LSDHelpers */ = {
+			isa = PBXGroup;
+			children = (
+				3C2FF345163E3F4519F5C345 /* Pod */,
+				BEBA70F29E01A46FA7D0117F /* Support Files */,
 			);
 			name = LSDHelpers;
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		E38FA729CF0F27F200435A7C /* Support Files */ = {
+		AF47F22630DD4F3D11CA1779 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				911A7D80AA1CB08997261B83 /* Pods-LSDHelpers-LSDHelpers.xcconfig */,
-				060EAC8B17EA5409278F8956 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */,
-				DC3E414F5B175507143C5C01 /* Pods-LSDHelpers-LSDHelpers-dummy.m */,
-				32BC481E5E7804AD7D86C19F /* Pods-LSDHelpers-LSDHelpers-prefix.pch */,
-				9306CE92D854273A61F49B27 /* Pods-Tests-LSDHelpers.xcconfig */,
-				4C0F366EB7B0D8F794A737C4 /* Pods-Tests-LSDHelpers-Private.xcconfig */,
-				452045D03E4644818EA5778A /* Pods-Tests-LSDHelpers-dummy.m */,
-				804B899884EED3DC27D7FF01 /* Pods-Tests-LSDHelpers-prefix.pch */,
+				5F7524AE5C0CFCDA83901529 /* Pods-LSDHelpers */,
+				131A556227B301FBA1E995E9 /* Pods-Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		BEBA70F29E01A46FA7D0117F /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				1A0B2BD50010138EDE1FB7A7 /* Pods-LSDHelpers-LSDHelpers.xcconfig */,
+				32E916BE9F40AD58FDF27EB5 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */,
+				8431BAA84B997DC2C7DA42C4 /* Pods-LSDHelpers-LSDHelpers-dummy.m */,
+				42AEF5BF0A7B4C14D721ED17 /* Pods-LSDHelpers-LSDHelpers-prefix.pch */,
+				079B65082F162F46DE1141AF /* Pods-Tests-LSDHelpers.xcconfig */,
+				5FE5634826507A9102EC7F2E /* Pods-Tests-LSDHelpers-Private.xcconfig */,
+				93CD232E737CB1B2C838B244 /* Pods-Tests-LSDHelpers-dummy.m */,
+				3F1913CA8C592465137DEE6D /* Pods-Tests-LSDHelpers-prefix.pch */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/Pods-LSDHelpers-LSDHelpers";
 			sourceTree = "<group>";
 		};
+		C98423D669D740A3C0016E7D = {
+			isa = PBXGroup;
+			children = (
+				8450EB6D20B17A2DED5BE43C /* Podfile */,
+				757AAEBCACDE734A144B556F /* Development Pods */,
+				468154780953D8620755B15D /* Frameworks */,
+				7D083A4008517D4C3983D945 /* Products */,
+				AF47F22630DD4F3D11CA1779 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		347B3B0F71FBB37F169DAE89 /* Headers */ = {
+		3A43D9338976D1985EC4C8C2 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				85DE762A3C3ABF425FDF0297 /* CALayer+LSDHelpers.h in Headers */,
-				96E4282ACD3E157E5B671878 /* UILabel+LSDHelpers.h in Headers */,
-				1D1A4F2C912A7AB53D116ED7 /* UIScreen+LSDHelpers.h in Headers */,
+				053D1D7AF20BCC43B41E547A /* CALayer+LSDHelpers.h in Headers */,
+				37375585B4502451D631DF1A /* LSDHelpres.h in Headers */,
+				501A436275AAAB74A0E973FF /* UIApplication+LSDHelpers.h in Headers */,
+				3F2844FEB5B7062AD413BB12 /* UILabel+LSDHelpers.h in Headers */,
+				DA0C6B2BD80AC6309FB52B4A /* UIScreen+LSDHelpers.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FEA9587EC9F48299D5D1696B /* Headers */ = {
+		E3E667AD15E41DEE5C461A86 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0B3A2FA8EBF12CB32AAA2C6B /* CALayer+LSDHelpers.h in Headers */,
-				A6FAF177A207E9EBF22AE1A7 /* UILabel+LSDHelpers.h in Headers */,
-				15B11D602193C38A9B5B4C3A /* UIScreen+LSDHelpers.h in Headers */,
+				1F420CCF46AE58B9CD7441E1 /* CALayer+LSDHelpers.h in Headers */,
+				8158DD0F6E48B40F8CDCE1A0 /* LSDHelpres.h in Headers */,
+				312D4146FD6E966C7B9BAC79 /* UIApplication+LSDHelpers.h in Headers */,
+				9C24BD1636A57F5712507EC0 /* UILabel+LSDHelpers.h in Headers */,
+				B4ADE6E112244A15AD9EC1FD /* UIScreen+LSDHelpers.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		561B9528838A8479F714F72C /* Pods-Tests */ = {
+		1CD46CAB1F96CE5B43E8A7BC /* Pods-Tests-LSDHelpers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FAF0044BAA7AC5407D1EEF64 /* Build configuration list for PBXNativeTarget "Pods-Tests" */;
+			buildConfigurationList = 80297A46556BE76CFF64BD16 /* Build configuration list for PBXNativeTarget "Pods-Tests-LSDHelpers" */;
 			buildPhases = (
-				BB870DA0D5A1355354EFC02E /* Sources */,
-				BCA4A9258AEE696CE953D96D /* Frameworks */,
+				B8D64CA834D61E1D6741C290 /* Sources */,
+				8529B714AA7DA737DAC446D6 /* Frameworks */,
+				E3E667AD15E41DEE5C461A86 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				868952DADB02223D3966989E /* PBXTargetDependency */,
+				ECAD0167DFA64DCD03C8D791 /* PBXTargetDependency */,
 			);
-			name = "Pods-Tests";
-			productName = "Pods-Tests";
-			productReference = 69A2761493673D3531F896F8 /* libPods-Tests.a */;
+			name = "Pods-Tests-LSDHelpers";
+			productName = "Pods-Tests-LSDHelpers";
+			productReference = 3B32BAEE33DFDA0C7675A148 /* libPods-Tests-LSDHelpers.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		93E7635D78744532DDC501C7 /* Pods-LSDHelpers-LSDHelpers */ = {
+		3718C376CF2CD360BF5A77D1 /* Pods-LSDHelpers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 83D0802C20084E83DC2BFE9B /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers-LSDHelpers" */;
+			buildConfigurationList = E0C6A9B1C3B61845E54FE4E8 /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers" */;
 			buildPhases = (
-				6D5CA99FFC7782B4367217D5 /* Sources */,
-				E0AEEA3697A5F60D6542CE09 /* Frameworks */,
-				FEA9587EC9F48299D5D1696B /* Headers */,
+				15320A69A715E7AD345A2232 /* Sources */,
+				03B2CCE02ED5F9BDB77AE084 /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				97E0B2AE26EC6DDC51BF2F5A /* PBXTargetDependency */,
+				5B936F6BCE80406E84E72CD5 /* PBXTargetDependency */,
 			);
-			name = "Pods-LSDHelpers-LSDHelpers";
-			productName = "Pods-LSDHelpers-LSDHelpers";
-			productReference = 7DE030B7D9ECAC7A8D0D2366 /* libPods-LSDHelpers-LSDHelpers.a */;
+			name = "Pods-LSDHelpers";
+			productName = "Pods-LSDHelpers";
+			productReference = CE7B1F71BB327E94D3057CA9 /* libPods-LSDHelpers.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		99163E2F5ACFB5D36EAF6050 /* Pods-Tests-LSDHelpers-LSDHelpers */ = {
+		5F5C360DB05392738EA964C5 /* Pods-Tests-LSDHelpers-LSDHelpers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 78243CDC9497A457E245B484 /* Build configuration list for PBXNativeTarget "Pods-Tests-LSDHelpers-LSDHelpers" */;
+			buildConfigurationList = 773BB5D01FE8A4E6E6EE94D1 /* Build configuration list for PBXNativeTarget "Pods-Tests-LSDHelpers-LSDHelpers" */;
 			buildPhases = (
-				4654A4F8767AAF8E1D7C5897 /* Sources */,
-				3EC704496A083C90DFE8E729 /* Frameworks */,
-				A86C0A3284198261A9C9E418 /* Resources */,
+				1FB3A44115E4C2A7C60A2908 /* Sources */,
+				F6B48720178F5ABD29AC5A4B /* Frameworks */,
+				1C8A5E298C8B6C038351EE31 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -366,51 +382,51 @@
 			);
 			name = "Pods-Tests-LSDHelpers-LSDHelpers";
 			productName = "Pods-Tests-LSDHelpers-LSDHelpers";
-			productReference = EAED4241CED7834D58302C32 /* LSDHelpers.bundle */;
+			productReference = 9D0EE78E95BBE91B8A18267A /* LSDHelpers.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
-		D070A012A94EB91F129831C5 /* Pods-LSDHelpers */ = {
+		9C2C5BA0369A09A1A1875470 /* Pods-LSDHelpers-LSDHelpers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 84292F2F73FA20DC0BA7E2CE /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers" */;
+			buildConfigurationList = 547BA785292D53A2709943EB /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers-LSDHelpers" */;
 			buildPhases = (
-				F7648EDBB66BFF7210262924 /* Sources */,
-				DEB73934565AFCEDCB028CD5 /* Frameworks */,
+				208A518D50A31F7B8BE67C7D /* Sources */,
+				0845D512DDA177BA6F7B3FAD /* Frameworks */,
+				3A43D9338976D1985EC4C8C2 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				109E29E678DCA50613912735 /* PBXTargetDependency */,
+				D8A3CAEE8290DE6FD5A1DB11 /* PBXTargetDependency */,
 			);
-			name = "Pods-LSDHelpers";
-			productName = "Pods-LSDHelpers";
-			productReference = AC285268A18C35FEB6879E3F /* libPods-LSDHelpers.a */;
+			name = "Pods-LSDHelpers-LSDHelpers";
+			productName = "Pods-LSDHelpers-LSDHelpers";
+			productReference = FA90D067FE9A7275FB48789A /* libPods-LSDHelpers-LSDHelpers.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		F99B858636A6D6856670E0E7 /* Pods-Tests-LSDHelpers */ = {
+		B1AB40E68E73055BDF1BE833 /* Pods-Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C14834D52353510EEDAC5C86 /* Build configuration list for PBXNativeTarget "Pods-Tests-LSDHelpers" */;
+			buildConfigurationList = 63FC18E23DE3C402F9676FD2 /* Build configuration list for PBXNativeTarget "Pods-Tests" */;
 			buildPhases = (
-				9FF66762665B11AE95EDF865 /* Sources */,
-				2DE360074D32EE8B0A21D2A7 /* Frameworks */,
-				347B3B0F71FBB37F169DAE89 /* Headers */,
+				9010D9AFF29B6F7C03EF13F8 /* Sources */,
+				49B0DC02E242A0639E37320A /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				DE8D62558219900A006BFBC1 /* PBXTargetDependency */,
+				BD13ECAB731F45409BE99F88 /* PBXTargetDependency */,
 			);
-			name = "Pods-Tests-LSDHelpers";
-			productName = "Pods-Tests-LSDHelpers";
-			productReference = A7DA2D4C2D657E305EB11761 /* libPods-Tests-LSDHelpers.a */;
+			name = "Pods-Tests";
+			productName = "Pods-Tests";
+			productReference = 7572D3114A18B2E691F97280 /* libPods-Tests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		FB5D558EF79B380C75EC81B2 /* Pods-LSDHelpers-LSDHelpers-LSDHelpers */ = {
+		C758C6DCA90F50A0B608C1EF /* Pods-LSDHelpers-LSDHelpers-LSDHelpers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FDC8C093F593E642F7A351A6 /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers-LSDHelpers-LSDHelpers" */;
+			buildConfigurationList = 0F706012C0FE6734687C301B /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers-LSDHelpers-LSDHelpers" */;
 			buildPhases = (
-				64AB241FA21FA2E2FB6974B7 /* Sources */,
-				7BB732EB5F424695A895DA85 /* Frameworks */,
-				816653E7CFF4451790076FEA /* Resources */,
+				BA07016B2595898F4DE971ED /* Sources */,
+				466F1D803696DD4BC5299CAA /* Frameworks */,
+				C377DD65D418FBD7EDBAB6A1 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -418,48 +434,48 @@
 			);
 			name = "Pods-LSDHelpers-LSDHelpers-LSDHelpers";
 			productName = "Pods-LSDHelpers-LSDHelpers-LSDHelpers";
-			productReference = 362683F346AA2FDC0DDE6F00 /* LSDHelpers.bundle */;
+			productReference = AB74C40CAFB87CEDB4CD67C2 /* LSDHelpers.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		EC523700F9D7F4BB4B5723F5 /* Project object */ = {
+		32E8318372E49536454B7FF7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0640;
 			};
-			buildConfigurationList = 6DBA5D612A6E4F95ED421A60 /* Build configuration list for PBXProject "Pods" */;
+			buildConfigurationList = CC05C79C54DC7682D8B66FA5 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = E001B6B9607EBE56EA5FF4B0;
-			productRefGroup = 657308918858555A14FBC47B /* Products */;
+			mainGroup = C98423D669D740A3C0016E7D;
+			productRefGroup = 7D083A4008517D4C3983D945 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D070A012A94EB91F129831C5 /* Pods-LSDHelpers */,
-				93E7635D78744532DDC501C7 /* Pods-LSDHelpers-LSDHelpers */,
-				FB5D558EF79B380C75EC81B2 /* Pods-LSDHelpers-LSDHelpers-LSDHelpers */,
-				561B9528838A8479F714F72C /* Pods-Tests */,
-				F99B858636A6D6856670E0E7 /* Pods-Tests-LSDHelpers */,
-				99163E2F5ACFB5D36EAF6050 /* Pods-Tests-LSDHelpers-LSDHelpers */,
+				3718C376CF2CD360BF5A77D1 /* Pods-LSDHelpers */,
+				9C2C5BA0369A09A1A1875470 /* Pods-LSDHelpers-LSDHelpers */,
+				C758C6DCA90F50A0B608C1EF /* Pods-LSDHelpers-LSDHelpers-LSDHelpers */,
+				B1AB40E68E73055BDF1BE833 /* Pods-Tests */,
+				1CD46CAB1F96CE5B43E8A7BC /* Pods-Tests-LSDHelpers */,
+				5F5C360DB05392738EA964C5 /* Pods-Tests-LSDHelpers-LSDHelpers */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		816653E7CFF4451790076FEA /* Resources */ = {
+		1C8A5E298C8B6C038351EE31 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A86C0A3284198261A9C9E418 /* Resources */ = {
+		C377DD65D418FBD7EDBAB6A1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -469,107 +485,227 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4654A4F8767AAF8E1D7C5897 /* Sources */ = {
+		15320A69A715E7AD345A2232 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C3C76C0B5AA227CB007EC831 /* Pods-LSDHelpers-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1FB3A44115E4C2A7C60A2908 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		64AB241FA21FA2E2FB6974B7 /* Sources */ = {
+		208A518D50A31F7B8BE67C7D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5ACC70E5A7F8D853491A7CD9 /* CALayer+LSDHelpers.m in Sources */,
+				4205EEF6449EE19A93455FCB /* Pods-LSDHelpers-LSDHelpers-dummy.m in Sources */,
+				5752FC218F347302F9354BFF /* UIApplication+LSDHelpers.m in Sources */,
+				B8A119D49E88964368511371 /* UILabel+LSDHelpers.m in Sources */,
+				30C10CDC6F5B0CBEF1D8EDBB /* UIScreen+LSDHelpers.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6D5CA99FFC7782B4367217D5 /* Sources */ = {
+		9010D9AFF29B6F7C03EF13F8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8AD38333A1F4AB496F885ED2 /* CALayer+LSDHelpers.m in Sources */,
-				3B867127C5D494064C380CEA /* Pods-LSDHelpers-LSDHelpers-dummy.m in Sources */,
-				A8D26D1BF34CB5AFCD62A779 /* UILabel+LSDHelpers.m in Sources */,
-				5DCF11B5756E284B681B6C66 /* UIScreen+LSDHelpers.m in Sources */,
+				730A55F737AA7A00C7446293 /* Pods-Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9FF66762665B11AE95EDF865 /* Sources */ = {
+		B8D64CA834D61E1D6741C290 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AC93F862D1817BB615A997B7 /* CALayer+LSDHelpers.m in Sources */,
-				3607F5C6FED3F5E4899643D6 /* Pods-Tests-LSDHelpers-dummy.m in Sources */,
-				42A3C2266A79E01296883D11 /* UILabel+LSDHelpers.m in Sources */,
-				7A7C6470ED286F859DCE6FAE /* UIScreen+LSDHelpers.m in Sources */,
+				193ADCEC2301E245428928BF /* CALayer+LSDHelpers.m in Sources */,
+				0E167BED0AA8D9A114A53ADF /* Pods-Tests-LSDHelpers-dummy.m in Sources */,
+				62247C9C3FE207526D57EC88 /* UIApplication+LSDHelpers.m in Sources */,
+				F76E1B098FBC26D1A0E05F35 /* UILabel+LSDHelpers.m in Sources */,
+				1ACFFF359DA6C00234D7B255 /* UIScreen+LSDHelpers.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BB870DA0D5A1355354EFC02E /* Sources */ = {
+		BA07016B2595898F4DE971ED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A443E6BF8BCC6A4B5663DB7 /* Pods-Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F7648EDBB66BFF7210262924 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EDDBF3845E0C7B2F9E0F2E72 /* Pods-LSDHelpers-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		109E29E678DCA50613912735 /* PBXTargetDependency */ = {
+		5B936F6BCE80406E84E72CD5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-LSDHelpers-LSDHelpers";
-			target = 93E7635D78744532DDC501C7 /* Pods-LSDHelpers-LSDHelpers */;
-			targetProxy = 009724346C864090F9AFAD6F /* PBXContainerItemProxy */;
+			target = 9C2C5BA0369A09A1A1875470 /* Pods-LSDHelpers-LSDHelpers */;
+			targetProxy = 54127DA6173EE465A5909EF2 /* PBXContainerItemProxy */;
 		};
-		868952DADB02223D3966989E /* PBXTargetDependency */ = {
+		BD13ECAB731F45409BE99F88 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-Tests-LSDHelpers";
-			target = F99B858636A6D6856670E0E7 /* Pods-Tests-LSDHelpers */;
-			targetProxy = 8BDAB42A9B9196E0512D3217 /* PBXContainerItemProxy */;
+			target = 1CD46CAB1F96CE5B43E8A7BC /* Pods-Tests-LSDHelpers */;
+			targetProxy = D24D384476FCF3E4BDE4DF34 /* PBXContainerItemProxy */;
 		};
-		97E0B2AE26EC6DDC51BF2F5A /* PBXTargetDependency */ = {
+		D8A3CAEE8290DE6FD5A1DB11 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-LSDHelpers-LSDHelpers-LSDHelpers";
-			target = FB5D558EF79B380C75EC81B2 /* Pods-LSDHelpers-LSDHelpers-LSDHelpers */;
-			targetProxy = 7B64CF5C90FF06FE4D153E49 /* PBXContainerItemProxy */;
+			target = C758C6DCA90F50A0B608C1EF /* Pods-LSDHelpers-LSDHelpers-LSDHelpers */;
+			targetProxy = 77271D1AD3E33B23A01EFF7F /* PBXContainerItemProxy */;
 		};
-		DE8D62558219900A006BFBC1 /* PBXTargetDependency */ = {
+		ECAD0167DFA64DCD03C8D791 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-Tests-LSDHelpers-LSDHelpers";
-			target = 99163E2F5ACFB5D36EAF6050 /* Pods-Tests-LSDHelpers-LSDHelpers */;
-			targetProxy = C709B4D58389486AA228D04D /* PBXContainerItemProxy */;
+			target = 5F5C360DB05392738EA964C5 /* Pods-Tests-LSDHelpers-LSDHelpers */;
+			targetProxy = FA6409F46D268FBC32CF6D85 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0014EAD0395AAEEF85DFEC38 /* Debug */ = {
+		3DF18D8B6DC6B7BE1C8A78E6 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4C0F366EB7B0D8F794A737C4 /* Pods-Tests-LSDHelpers-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		432F8F7C474D5FE96FE3A12D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 32E916BE9F40AD58FDF27EB5 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers-prefix.pch";
+				PRODUCT_NAME = LSDHelpers;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		4502F658F32E967D3FBCF8C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 32E916BE9F40AD58FDF27EB5 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = LSDHelpers;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		52F8C19F579555843CAECF80 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 79358CF2AADA52666DA3E829 /* Pods-Tests.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		5D195382410CD7B706052BB0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 32E916BE9F40AD58FDF27EB5 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-LSDHelpers-LSDHelpers/Pods-LSDHelpers-LSDHelpers-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
+			name = Release;
+		};
+		6406D557B0CE2BC3A341F1E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C288793D7BC6C40BD878BDD8 /* Pods-LSDHelpers.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		6B7A471FEBA2475B6B98B802 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5FE5634826507A9102EC7F2E /* Pods-Tests-LSDHelpers-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = LSDHelpers;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
 			name = Debug;
 		};
-		0F38415CD637FC2E686243BB /* Debug */ = {
+		6C50D74BED2A8164DC772194 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 060EAC8B17EA5409278F8956 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */;
+			baseConfigurationReference = 49905044C2378DFD5AF3CEB0 /* Pods-Tests.debug.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		7AC3E8607C9F4112D86B1FC2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 32E916BE9F40AD58FDF27EB5 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/Pods-LSDHelpers-LSDHelpers/Pods-LSDHelpers-LSDHelpers-prefix.pch";
@@ -583,139 +719,7 @@
 			};
 			name = Debug;
 		};
-		0FF79FDF8314CB56B7DAC1B6 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 904FCD7A33D7A72FA579139B /* Pods-LSDHelpers.release.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		1C39BF65F6E2E54CCA22CBDC /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 41E209945FF9637B54AE767B /* Pods-LSDHelpers.debug.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		2044D36FC9687CC639B47427 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 060EAC8B17EA5409278F8956 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-LSDHelpers-LSDHelpers/Pods-LSDHelpers-LSDHelpers-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		2F74174A6EB96E64D4C51289 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 060EAC8B17EA5409278F8956 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = LSDHelpers;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		5B473B9DD10DC4BA0DB58D5E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4C0F366EB7B0D8F794A737C4 /* Pods-Tests-LSDHelpers-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = LSDHelpers;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		67DAF5768C4B866B020ACD2D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5A64260668602DF28E8B2D2A /* Pods-Tests.release.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		6ACD72169FA28860A46ACC39 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 060EAC8B17EA5409278F8956 /* Pods-LSDHelpers-LSDHelpers-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = LSDHelpers;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		8CF3C416D5D81E173CB12D57 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B717D37D47EAE03E3B85C5F4 /* Pods-Tests.debug.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		948442699E673372D48ED661 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4C0F366EB7B0D8F794A737C4 /* Pods-Tests-LSDHelpers-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		AA14B5952E1FEE2000363998 /* Debug */ = {
+		7F7615A18C75D6DFB5A64CDD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -754,9 +758,9 @@
 			};
 			name = Debug;
 		};
-		AC874D1DD42206DC9D4EAE6B /* Release */ = {
+		9B32988859F0EB47796B09BE /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4C0F366EB7B0D8F794A737C4 /* Pods-Tests-LSDHelpers-Private.xcconfig */;
+			baseConfigurationReference = 5FE5634826507A9102EC7F2E /* Pods-Tests-LSDHelpers-Private.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				PRODUCT_NAME = LSDHelpers;
@@ -766,107 +770,121 @@
 			};
 			name = Release;
 		};
-		D15A6B27CA3764C6FFFD0C02 /* Release */ = {
+		AE679FC105C7B6AA5B908B3F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5FE5634826507A9102EC7F2E /* Pods-Tests-LSDHelpers-Private.xcconfig */;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COPY_PHASE_STRIP = YES;
-				ENABLE_NS_ASSERTIONS = NO;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers-prefix.pch";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-				VALIDATE_PRODUCT = YES;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		C237BBCD61FFC728CB299CB3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2B59799B91E44E2F1C54CED2 /* Pods-LSDHelpers.debug.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		E59E7163CFE801321D294C1D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5FE5634826507A9102EC7F2E /* Pods-Tests-LSDHelpers-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-LSDHelpers/Pods-Tests-LSDHelpers-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6DBA5D612A6E4F95ED421A60 /* Build configuration list for PBXProject "Pods" */ = {
+		0F706012C0FE6734687C301B /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers-LSDHelpers-LSDHelpers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AA14B5952E1FEE2000363998 /* Debug */,
-				D15A6B27CA3764C6FFFD0C02 /* Release */,
+				432F8F7C474D5FE96FE3A12D /* Debug */,
+				4502F658F32E967D3FBCF8C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		78243CDC9497A457E245B484 /* Build configuration list for PBXNativeTarget "Pods-Tests-LSDHelpers-LSDHelpers" */ = {
+		547BA785292D53A2709943EB /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers-LSDHelpers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5B473B9DD10DC4BA0DB58D5E /* Debug */,
-				AC874D1DD42206DC9D4EAE6B /* Release */,
+				7AC3E8607C9F4112D86B1FC2 /* Debug */,
+				5D195382410CD7B706052BB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83D0802C20084E83DC2BFE9B /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers-LSDHelpers" */ = {
+		63FC18E23DE3C402F9676FD2 /* Build configuration list for PBXNativeTarget "Pods-Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0F38415CD637FC2E686243BB /* Debug */,
-				2044D36FC9687CC639B47427 /* Release */,
+				6C50D74BED2A8164DC772194 /* Debug */,
+				52F8C19F579555843CAECF80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		84292F2F73FA20DC0BA7E2CE /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers" */ = {
+		773BB5D01FE8A4E6E6EE94D1 /* Build configuration list for PBXNativeTarget "Pods-Tests-LSDHelpers-LSDHelpers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1C39BF65F6E2E54CCA22CBDC /* Debug */,
-				0FF79FDF8314CB56B7DAC1B6 /* Release */,
+				6B7A471FEBA2475B6B98B802 /* Debug */,
+				9B32988859F0EB47796B09BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C14834D52353510EEDAC5C86 /* Build configuration list for PBXNativeTarget "Pods-Tests-LSDHelpers" */ = {
+		80297A46556BE76CFF64BD16 /* Build configuration list for PBXNativeTarget "Pods-Tests-LSDHelpers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0014EAD0395AAEEF85DFEC38 /* Debug */,
-				948442699E673372D48ED661 /* Release */,
+				AE679FC105C7B6AA5B908B3F /* Debug */,
+				E59E7163CFE801321D294C1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FAF0044BAA7AC5407D1EEF64 /* Build configuration list for PBXNativeTarget "Pods-Tests" */ = {
+		CC05C79C54DC7682D8B66FA5 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8CF3C416D5D81E173CB12D57 /* Debug */,
-				67DAF5768C4B866B020ACD2D /* Release */,
+				7F7615A18C75D6DFB5A64CDD /* Debug */,
+				3DF18D8B6DC6B7BE1C8A78E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FDC8C093F593E642F7A351A6 /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers-LSDHelpers-LSDHelpers" */ = {
+		E0C6A9B1C3B61845E54FE4E8 /* Build configuration list for PBXNativeTarget "Pods-LSDHelpers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2F74174A6EB96E64D4C51289 /* Debug */,
-				6ACD72169FA28860A46ACC39 /* Release */,
+				C237BBCD61FFC728CB299CB3 /* Debug */,
+				6406D557B0CE2BC3A341F1E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = EC523700F9D7F4BB4B5723F5 /* Project object */;
+	rootObject = 32E8318372E49536454B7FF7 /* Project object */;
 }

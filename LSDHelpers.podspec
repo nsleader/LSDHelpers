@@ -9,14 +9,14 @@
 
 Pod::Spec.new do |s|
   s.name             = "LSDHelpers"
-  s.version          = "0.1.0"
-  s.summary          = "A short description of LSDHelpers."
-  s.description      = <<-DESC
-                       An optional longer description of LSDHelpers
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
-                       DESC
+  s.version          = "0.1.1"
+  s.summary          = "LSDHelpers."
+#  s.description      = <<-DESC
+#                       An optional longer description of LSDHelpers
+#
+#                       * Markdown format.
+#                       * Don't worry about the indent, we strip it!
+#                       DESC
   s.homepage         = "https://github.com/nsleader/LSDHelpers"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'

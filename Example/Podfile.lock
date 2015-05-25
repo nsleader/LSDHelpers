@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LSDHelpers: 9fc7e34c9d64afe5f02516014536f34e484ec615
+  LSDHelpers: b112fc01ed6efa593bea677b204c1f91efc1ef46
 
 COCOAPODS: 0.37.1
